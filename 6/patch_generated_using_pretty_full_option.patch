@@ -1,0 +1,34 @@
+commit 6b366076dbbd71e382053256b24695636c129472
+Author: Abdul Rahim <abdul.rahim@myyahoo.com>
+Commit: Abdul Rahim <abdul.rahim@myyahoo.com>
+
+    LFD103(course): Created and tested first patch
+    
+    Created and tested my first patch in the linux kernel.
+    In this assigment, i changed uvcvideo code and added
+    a message in uvc_probe() function as instructed in the
+    tutorial. Furthermore i conpiled and installed the
+    kernel with this change and tested it. And was success-
+    fully able to print my message in dmesg using pr_info()
+
+Signed-off-by: Abdul Rahim <abdul.rahim@myyahoo.com>
+---
+ drivers/media/usb/uvc/uvc_driver.c | 2 ++
+ 1 file changed, 2 insertions(+)
+
+diff --git a/drivers/media/usb/uvc/uvc_driver.c b/drivers/media/usb/uvc/uvc_driver.c
+index f0febdc08c2d..2975a1480b92 100644
+--- a/drivers/media/usb/uvc/uvc_driver.c
++++ b/drivers/media/usb/uvc/uvc_driver.c
+@@ -2106,6 +2106,8 @@ static int uvc_probe(struct usb_interface *intf,
+ 	int function;
+ 	int ret;
+ 
++	pr_info("My first code in the linux kernel");
++
+ 	/* Allocate memory for the device and initialize it. */
+ 	dev = kzalloc(sizeof(*dev), GFP_KERNEL);
+ 	if (dev == NULL)
+-- 
+2.43.0
+

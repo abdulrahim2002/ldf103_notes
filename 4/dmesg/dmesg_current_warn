@@ -1,0 +1,65 @@
+Speculative Return Stack Overflow: IBPB-extending microcode not applied!
+Speculative Return Stack Overflow: WARNING: See https://kernel.org/doc/html/latest/admin-guide/hw-vuln/srso.html for mitigation options.
+i8042: PNP: PS/2 appears to have AUX port disabled, if this is incorrect please boot with i8042.nopnp
+device-mapper: core: CONFIG_IMA_DISABLE_HTABLE is disabled. Duplicate IMA measurements will not be recorded in the IMA log.
+blacklist: Duplicate blacklisted hash bin:47ff1b63b140b6fc04ed79131331e651da5b2e2f170f5daef4153dc2fbc532b1
+blacklist: Duplicate blacklisted hash bin:5391c3a2fb112102a6aa1edc25ae77e19f5d6f09cd09eeb2509922bfcd5992ea
+blacklist: Duplicate blacklisted hash bin:80b4d96931bf0d02fd91a61e19d14f1da452e66db2408ca8604d411f92659f0a
+blacklist: Duplicate blacklisted hash bin:992d359aa7a5f789d268b94c11b9485a6b1ce64362b0edb4441ccc187c39647b
+blacklist: Duplicate blacklisted hash bin:c452ab846073df5ace25cca64d6b7a09d906308a1a65eb5240e3c4ebcaa9cc0c
+blacklist: Duplicate blacklisted hash bin:e051b788ecbaeda53046c70e6af6058f95222c046157b8c4c1b9c2cfc65f46e5
+nvme nvme0: missing or invalid SUBNQN field.
+[drm] Fence fallback timer expired on ring sdma0
+[drm] Fence fallback timer expired on ring sdma0
+r8169 0000:04:00.0: can't disable ASPM; OS doesn't have ASPM control
+ACPI: \: failed to evaluate _DSM e8c3a8d2-694b-004f-82bd-fe8607803aa7 (0x1001)
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key pressed (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+atkbd serio0: Unknown key released (translated set 2, code 0xab on isa0060/serio0).
+atkbd serio0: Use 'setkeycodes e02b <keycode>' to make it known.
+block sda: the capability attribute has been deprecated.
+WARNING! power/level is deprecated; use power/control instead
